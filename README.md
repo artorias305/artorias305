@@ -4,6 +4,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artorias305&show_icons=true&hide_title=true&hide=issues&hide_border=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artorias305&layout=compact&hide_border=true)
-
+![](https://github-readme-stats.vercel.app/api?username=artorias305&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=artorias305&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=artorias305&theme=tokyonight&hide_border=true)
