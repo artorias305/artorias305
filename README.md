@@ -4,6 +4,11 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=artorias305&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=artorias305&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=artorias305&theme=tokyonight&hide_border=true)
+# Experience
+I have written code before. Some of it even works
+
+# Currently learning
+Programming and electronics, because that's what a computer engineer is supposed to do i think
+
+# Othe stuff
+I break things until they work
